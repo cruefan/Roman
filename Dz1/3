@@ -1,0 +1,7 @@
+print("Введите три числа")
+a = float(input("Первое число:"))
+b = float(input("Второе число:"))
+c = float(input("Третье число:"))
+d = a + b
+f = d * c
+print("The answer is", f)
